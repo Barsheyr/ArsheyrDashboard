@@ -56,7 +56,7 @@ const Cart = () => {
             <p className="text-gray-500 dark:text-gray-200">Sub Total</p>
             <p className="font-semibold">$890</p>
           </div>
-          <div className="flex justify-between items-center mt-3">
+          <div className="flex justify-between items-center mt-2">
             <p className="text-gray-500 dark:text-gray-200">Total</p>
             <p className="font-semibold">$890</p>
           </div>
